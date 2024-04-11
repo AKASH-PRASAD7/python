@@ -1,6 +1,6 @@
 year=int(input("enter year: "))
 
-leap=year%4==0
+leap=year%4==0 and year%100!=0
 
 if(leap):
     print(year,"is leap year")
