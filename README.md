@@ -48,3 +48,5 @@ Python has the following data types:
 - Others: types, exceptions, etc.
 
 - Advanced: Decorators, generators, metaclasses, etc.
+
+# Iterable and Iterator
